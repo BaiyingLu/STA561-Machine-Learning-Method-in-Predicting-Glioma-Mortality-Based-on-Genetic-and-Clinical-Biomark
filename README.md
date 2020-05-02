@@ -7,3 +7,7 @@ Low grade gliomas are sub-types of cancer that develops in the glial cells of th
 
 ### Introduction
 All the code related to this program we have already pushed on this branch, one notebook is genetic dataset, the other is genetic and clinical dataset. The data we use is listed in the branch, we also mentioned in our paper and poster.
+
+### License
+
+Licensed under the [MIT License](LICENSE)
