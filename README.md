@@ -1,5 +1,5 @@
 ## STA561-Machine-Learning-Method-in-Predicting-Glioma-Mortality-Based-on-Genetic-and-Clinical-Biomark
-***
+
 Group Member: Baiying Lu(baiying.lu@duke.edu), Sumin Lan(sumin.lan@duke.edu)
 
 ### Abstract
